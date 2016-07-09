@@ -61,7 +61,17 @@ Obviously declarative orchestration systems don't lend themselves to deployments
 
 > Declarative orchestration lends itself well to the **nuke and pave** operations model found in cloud. If applications are built to be redudant or stateless, then you don't spend significant efforts patching or maintaining the evolution of an application stack. You simply create another stack with the new desired state and the delete the older stack which no longer meets your needs.
 
+Since declarative orchestration does not include any conditional logic, the tracked state of a resource can be simplied to what is necessary to declare the resource *finished* or *failed*.
 
+In Heat there are 5 events which can trigger a resources state to change:
+
+- CREATE
+- UPDATE (optional)
+- SUSPEND (optional)
+- RESUME (optional)
+- DELETE
+
+As you can see the complexity found in many imperative systems is reduced to a simple state model which can readily be orchestrated. The complexity **must** be contained to the resource handler because the declarative model won't allow for it to be in the declaration template. This means our orchestration problem is naturally decomposed into testable resources.
 
 ### Declarative Orchestration and Dependancy Chains
 
@@ -98,7 +108,7 @@ web_server_3_port:
 
 As long as all resources can be **well declared** with all their dependancies linearly defined, then a declarative model is well suited as an orchestration mechanism. There are ways to *cheat*, but reducing complexity in deployments to declarative models lends itself to better testing, simplier orchestrations, and being able to *template* orchestrations in a self-documenting fashion.
 
-Declarations get done in Template
+Declarations get done in a template. A HOT to be precise.
 
 <sub>
 [Table of Contents](01_TOC.md) - Next [Structure of a HOT](05_Structure_of_a_HOT.md) 

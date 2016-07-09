@@ -21,7 +21,7 @@ Clients manage:
 + Templates 
 + Software Configurations
 
-In the following exercises we will only be dealing with *Stacks* and *Templates*. In the furture, no doubt Heat will orchestrate even 
+In the following exercises we will only be dealing with *Stacks* and *Templates*. In the furture, no doubt Heat will orchestrate even
 
 Heat has community defined resources which interact with OpenStack Ceilometer Metrics and Alarms to provide triggering for auto-scaling of resources within a stack.
 
