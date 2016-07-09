@@ -55,7 +55,7 @@ Summit Presentations
 
 *Putting Everything Together*
 
-[Exercise 16 - A Full Application Deployment](./Heat/16_Exercise_16.md)
+[Exercise 16 - A Full Application Deployment](./Heat/22_Exercise_16.md)
 
 <sup>
 <b>July 2016</b></br>
