@@ -5,16 +5,16 @@ Summit Presentations
 
 #Why Get All Heated Up With OpenStack?
 
-[The Need for Heat in OpenStack IaaS](./Heat/02_Need_For_Heat.md)
+[The Need for Heat in OpenStack IaaS](./Heat/02_Need_For_Heat.md)</br>
 <sub>Managing the Infrastructure Components</sub>
 
-[Component in the Heat Architecture](./Heat/03_Heat_Components.md)
+[Component in the Heat Architecture](./Heat/03_Heat_Components.md)</br>
 <sub>What Runs Where</sub>
 
-[Declare This!](./Heat/04_Declarative_Orchestration.md)
+[Declare This!](./Heat/04_Declarative_Orchestration.md)</br>
 <sub>The Nuke and Pave Infrastructure</sub>
 
-[Structure of a HOT (Heat Orchestration Template)](./Heat/05_HOT_Structure.md)
+[Structure of a HOT (Heat Orchestration Template)](./Heat/05_HOT_Structure.md)</br>
 <sub>Properties, Parameters, and Outputs</sub>
 
 
@@ -40,7 +40,7 @@ Summit Presentations
 
 [Exercise 10 - TMOS VE Onboarding](./Heat/15_Exercise_10.md)
 
-[Custom Heat Resources](./Heat/16_Custom_Heat_Resources.md)
+[Custom Heat Resources](./Heat/16_Custom_Heat_Resources.md)</br>
 <sub>Adding Infrastructure Resources to Orchestrate</sub>
 
 [Exercise 11 - BIG-IQ License Orchestration](./Heat/17_Exercise_11.md)
