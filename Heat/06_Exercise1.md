@@ -188,7 +188,7 @@ You will notice the use of the ` get_attr ` HOT function to get the attribute fr
 
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Exercise 2 - Your First Heat Template](07_Exercise2.md) 
+[Table of Contents](01_TOC.md) - Next [Exercise 2 - Your First Heat Orchestration](07_Exercise2.md) 
 </sub>
 
 <sup>

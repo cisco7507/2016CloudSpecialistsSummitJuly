@@ -20,7 +20,7 @@ Summit Presentations
 
 [Exercise 1 - Discovering Your Resources](./Heat/06_Exercise_1.md)
 
-[Exercise 2 - Your First Heat Template](./Heat/07_Exercise_2.md)
+[Exercise 2 - Your First Heat Orchestration](./Heat/07_Exercise_2.md)
 
 [Exercise 3 - Getting Your Input](./Heat/08_Exercise_3.md)
 
