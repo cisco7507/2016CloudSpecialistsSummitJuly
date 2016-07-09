@@ -6,7 +6,7 @@ Summit Presentations
 #Components in the Heat Architecture
 
 
-
+![Heat System Components](./images/HeatSystemArchitecture.png  "Heat System Components")
 
 
 
