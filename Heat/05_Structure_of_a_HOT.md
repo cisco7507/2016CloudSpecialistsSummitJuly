@@ -3,7 +3,7 @@
 Summit Presentations
 
 
-#The Need for Heat In OpenStack
+#Structure of a HOT (Heat Orchestration Template)
 
 
 
@@ -11,7 +11,7 @@ Summit Presentations
 
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Components in the Heat Architecture](03_Components_in_the_Heat_Architecture.md) 
+[Table of Contents](01_TOC.md) - Next [Exercise 1 - Discovering Your Resources](06_Exercise1.md) 
 </sub>
 
 <sup>
