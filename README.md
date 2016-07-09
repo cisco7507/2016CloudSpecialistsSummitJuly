@@ -60,5 +60,5 @@ Summit Presentations
 <sup>
 <b>July 2016</b></br>
 n.menant@f5.com</br>
-j.gruber@f5.com^
+j.gruber@f5.com
 </sup>
