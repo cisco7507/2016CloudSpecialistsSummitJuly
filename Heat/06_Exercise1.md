@@ -187,6 +187,7 @@ You will notice the use of the ` get_attr ` HOT function to get the attribute fr
 ```
 
 > **Question:** How much of your infrastructure can you orchestrate in OpenStack?
+
 > **Question:** Do you think Heat is slowing down or growing with every release?
 
 
