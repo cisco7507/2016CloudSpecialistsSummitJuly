@@ -11,12 +11,12 @@ HOT with resources to orchestrate is useless. So let's see what your working wit
 
 #####Through the Horizon Web Interface Heat Client
 
-Step 1. Navigate to Orchestration -> Resouce Types
-Step 2. Select the resource `OS::Glance::Image`
+**Step 1. Navigate to Orchestration -> Resouce Types**
+**Step 2. Select the resource `OS::Glance::Image`**
 
 #####Through the CLI Heat Client
 
-Step 1. Get a list of Resource Types
+**Step 1. Get a list of Resource Types**
 
 ```
 # heat resource-type-list

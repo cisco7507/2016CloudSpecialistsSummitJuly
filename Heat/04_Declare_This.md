@@ -108,7 +108,7 @@ web_server_3_port:
 
 As long as all resources can be **well declared** with all their dependancies linearly defined, then a declarative model is well suited as an orchestration mechanism. There are ways to *cheat*, but reducing complexity in deployments to declarative models lends itself to better testing, simplier orchestrations, and being able to *template* orchestrations in a self-documenting fashion.
 
-Declarations get done in a template. A HOT to be precise.
+Declarations get done in a template. A HOT to be 
 
 <sub>
 [Table of Contents](01_TOC.md) - Next [Structure of a HOT](05_Structure_of_a_HOT.md) 
