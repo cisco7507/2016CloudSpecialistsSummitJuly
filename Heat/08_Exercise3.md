@@ -239,7 +239,7 @@ outputs:
 
 ```
 
-**Step 3: Adding paramert_groups to give Horizon hints ** 
+**Step 3: Adding paramert_groups to give Horizon hints** 
 
 
 ```
