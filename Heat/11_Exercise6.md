@@ -239,7 +239,7 @@ Open a web browser to your *web_server_3_public_ip*
 > **Answer:** Because ther web_server_1 contained no reference to anything in the nested web_app_security_group resource, the Heat engine could not automatically create a dependancy, so we needed to create one explicitly.
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Exercise 7 - Using LBaaSv2 in Heat](11_Exercise6.md) 
+[Table of Contents](01_TOC.md) - Next [Exercise 7 - Using LBaaSv2 in Heat](12_Exercise7.md) 
 </sub>
 
 <sup>
