@@ -23,7 +23,9 @@ In OpenStack we 'patch' the TMOS VE images before we install them as Glance imag
 
 The startup script will locate a *config_drive* if it is attached or else it will attempt to use the metadata network proxy service to obtain metadata from OpenStack.
 
-The startup agent automatically randomizes the password for the *root* and *admin* built-in accounts and places the randomized values on the Nove guest instance console for the first boot only.
+The startup agent automatically randomizes the password for the *root* and *admin* built-in accounts and places the randomized values on the Nova guest instance console for the first boot only.
+
+![Randomized Root and Admin Password](./images/Exercise_8_1.png)
 
 The startup script has a variety of tasks it can perform based on *user_data* passed through OpenStack *metadata*.  Not the least of which are changing account passwords, inject SSH keys, provisioning modules, handle DHCP on TMM interfaces, and orchestrate ` @scale licensing ` for TMOS, and running commands. 
 
