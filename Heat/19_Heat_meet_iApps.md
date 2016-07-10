@@ -484,7 +484,7 @@ resources:
 ```
 Hopefully your getting this by now. 
 
-####You can basically do any L4-L7 configuration of your BIG-IP if you take the time to write a declarative iApp and then use the F5 Heat resources to integrate them into the infrastrucutre!
+####You can basically do any L4-L7 configuration of your BIG-IP if you take the time to write a declarative iApp and then use the F5 Heat resources to integrate them into the infrastructure!
 
 *Oh Heat.. is there nothing that can't be done with you?*
 
