@@ -30,8 +30,8 @@ We have already installed some custom f5 Heat resouce plugins for you:
 |F5::Neutron::HAPort| Allow f5 floating IP addresses access on a Neutron port|
 |F5::Sys::Partition|Change to tenant folder|
 |F5::Sys::Save| Save Big::IP::Device configuration|
-|F5::Sys::iAppCompositeTemplate|Manage an iApp with dependancies|
-|F5::Sys::iAppFullTemplate|Manage an iApp|
+|F5::Sys::iAppCompositeTemplate|Manage an iApp separate implementation and presentation properties|
+|F5::Sys::iAppFullTemplate|Manage an iApp as a single string|
 |F5::Sys::iAppService|Implement an iApp|
 
 Like all resources you can inspect their properties and attributes. The properties and attributes tell you how to use the resources in your HOT.
