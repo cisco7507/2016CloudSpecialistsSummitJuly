@@ -66,7 +66,7 @@ Try to construct the rest of the HOT yourself.
 
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Exercise 12 - Allowing Addresses through Port Security](18_Exercise1.md) 
+[Table of Contents](01_TOC.md) - Next [Exercise 12 - Allowing Addresses through Port Security](18_Exercise10.md) 
 </sub>
 
 <sup>
