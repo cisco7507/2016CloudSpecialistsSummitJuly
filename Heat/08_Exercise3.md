@@ -14,9 +14,10 @@ In HOT inputs are called *parameters*.
 
 ###HOT does inputs pretty well!
 
-####Acceptable Input Types:
+####Acceptable Input Types
 
- | Type           | HOT Designation | Description 
+
+ | Type          | HOT Designation | Description 
  |---------------|-----------------------|-----------------
  | String| string | Unicode string value
  | Number| number | An integer or decimal number 
