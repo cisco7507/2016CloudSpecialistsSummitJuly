@@ -115,6 +115,7 @@ You can go look at your OpenStack Networks and you will see your orchestrated Ne
 From the Horizon GUI Delete your *exercise_2* stack. 
 
 > **Question:** Do we really want to delete resources? 
+
 >**Answer: YES!!** The point of HOT is to capture the life-cycle COMPLETELY of the declared resources.
 
 
