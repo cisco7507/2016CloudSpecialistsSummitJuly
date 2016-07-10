@@ -116,7 +116,7 @@ outputs:
 
 You should know how to do that by now.
 
-Unfortuately the Horizon GUI doesn't show *allowed_address_pairs*, so we wil have to use the CLI Neutron client.
+Unfortuately the Horizon GUI doesn't show *allowed_address_pairs*, so we will have to use the CLI Neutron client.
 
 Show the port details of the second port's UUID (output from your Stack)
 
