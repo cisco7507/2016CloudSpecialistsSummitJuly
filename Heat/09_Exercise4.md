@@ -178,7 +178,7 @@ Go to your new VM guest console and login with:
 
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Exercise 5 - Composibility](10_Exercise5.md) 
+[Table of Contents](01_TOC.md) - Next [Exercise 5 - Stacking Up a Server on our Infrastructure](10_Exercise5.md) 
 </sub>
 
 <sup>

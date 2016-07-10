@@ -26,9 +26,9 @@ Summit Presentations
 
 [Exercise 4 - Configuration Management with Nova Userdata and Cloudinit](09_Exercise4.md)
 
-[Exercise 5 - Composibility](10_Exercise5.md)
+[Exercise 5 - Stacking Up a Server on our Infrastructure](10_Exercise5.md)
 
-[Exercise 6 - Stacking Up a Server on our Infrastructure](11_Exercise6.md)
+[Exercise 6 - Composability](11_Exercise6.md)
 
 [Exercise 7 - Using LBaaSv2 in Heat](12_Exercise7.md)
 
