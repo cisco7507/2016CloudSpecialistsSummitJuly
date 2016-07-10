@@ -141,7 +141,7 @@ resources:
           
 ```
 
-There examples show off our input processing from the last exercise and a new ` str_replace ` HOT function. 
+This exercise shows off our input processing skills from the last exercise and a new ` str_replace ` HOT function. 
 
 The ` str_replace ` function has a list of ` params ` of the form ` key: replace string ` and applies a simple search and replace to whatever is supplied to its ` template ` property. 
 
