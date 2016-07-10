@@ -46,7 +46,7 @@ resources:
 ```
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Exercise 11 - Getting IP Addresses for Your Virtual Servers](17_Exercise11.md) 
+[Table of Contents](01_TOC.md) - Next [Exercise 11 - Getting IP Addresses for Your Virtual Servers](17_Exercise9.md) 
 </sub>
 
 <sup>
