@@ -14,16 +14,15 @@ In HOT inputs are called *parameters*.
 
 ###HOT does inputs pretty well!
 
-####Acceptable Input Types
+####Acceptable Input Types:
 
-
- | Type          | HOT Designation | Description 
- |---------------|-----------------------|-----------------
- | String| string | Unicode string value
- | Number| number | An integer or decimal number 
- | JSON| json | A JSON encoded object 
- | Comma Separated List| comma_delimited_list | A string list 
- | Boolean | boolean | 'true' or 'false'
+| Type | HOT Designation | Description |
+|--------|-----------------------|-----------------|
+| String| string | Unicode string value|
+| Number| number | An integer or decimal number| 
+| JSON| json | A JSON encoded object |
+| Comma Separated List| comma_delimited_list | A string list| 
+| Boolean | boolean | 'true' or 'false'|
 	
 For parameters the *'type'* designation is a requirement.
 
