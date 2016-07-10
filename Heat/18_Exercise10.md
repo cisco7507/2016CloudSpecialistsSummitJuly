@@ -124,7 +124,7 @@ Show the port details of the second port's UUID (output from your Stack)
 neutron port-show [port UUID]
 
 ```
-Here is a truncated sample output showing the *allowed_address_pairs*
+Here is a truncated sample output showing the *allowed_address_pairs*.
 
 ```
 +-----------------------+---------------------------------------------------------------------+
