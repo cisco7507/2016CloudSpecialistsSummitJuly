@@ -104,7 +104,8 @@ Now select your **Stack** and look at the *Topology* to see the dependancy and t
 
 ![Launch Stack](./images/Exercise_2_3.png  "Launch Stack")
 
-> **Question:** Do you think the UUID of the Network or Subnet could be use by a Heat client or by another HOT which nests this template? 
+> **Question:** Do you think the UUID of the Network or Subnet could be used by a Heat client or by another HOT which nests this template? 
+
 >**Answer: YES!!** You're starting to see the power of composibility.
 
 You can go look at your OpenStack Networks and you will see your orchestrated Network and Subnet showing.
