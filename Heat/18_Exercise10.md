@@ -148,7 +148,7 @@ Here is a truncated sample output showing the *allowed_address_pairs*
 **Step 3: Delete Your Stack** 
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Heat meet iApp](19_Heat_meet_iApp.md) 
+[Table of Contents](01_TOC.md) - Next [Heat meet iApp](19_Heat_meet_iApps.md) 
 </sub>
 
 <sup>
