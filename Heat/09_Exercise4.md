@@ -162,7 +162,7 @@ Pick m1.small as your flavor
 Pick a network
 Set your password
 
-![Launch your 
+![Launch Your Orchestration](./images/Exercise_4_1.png)
 
 Push the *'Launch'* button.
 
