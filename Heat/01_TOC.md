@@ -39,19 +39,19 @@ Summit Presentations
 [Custom Heat Resources](14_Custom_Heat_Resources.md)</br>
 <sub>Adding Infrastructure Resources to Orchestrate</sub>
 
-[Exercise 9 - BIG-IQ License Orchestration](15_Exercise9.md)
+[BIG-IQ License Orchestration](15_BIG-IQ_License_Orchestration.md)
 
-[Exercise 10 - Clustering BIG-IPs](16_Exercise10.md)
+[Clustering BIG-IPs](16_Clustering_BIG-IPs.md)
 
-[Exercise 11 - Getting IP Addresses for Your Virtual Servers](17_Exercise11.md)
+[Exercise 9 - Getting IP Addresses for Your Virtual Servers](17_Exercise9.md)
 
-[Exercise 12 - Allowing Addresses through Port Security](18_Exercise12.md)
+[Exercise 10 - Allowing Addresses through Port Security](18_Exercise10.md)
 
-[Exercise 13 - Heat meet iApp](19_Exercise13.md)
+[Heat meet iApp](19_Heat_meet_iApps.md)
 
 *Putting Everything Together*
 
-[Exercise 14 - A Full Application Deployment](20_Exercise14.md)
+[Exercise 11 - A Full Application Deployment](20_Exercise11.md)
 
 <sup>
 <b>July 2016</b></br>
