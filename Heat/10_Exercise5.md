@@ -147,7 +147,7 @@ outputs:
  
 ```
 
-**Step 1: Get Your Template From a URL ** 
+**Step 1: Get Your Template From a URL** 
 
 From the Horizon GUI Navigate to *Orchestation->Stacks* and Click the *+Launch* Stack button.
 
@@ -159,7 +159,7 @@ http://repo.mydemo.rocks/templates/exercise_5_web_server.yaml
 
 Click **Next**.
 
-**Step 2: Launch Your Stack ** 
+**Step 2: Launch Your Stack** 
 
 Name your stack *exercise_5*
 Choose an Ubuntu image
@@ -182,7 +182,7 @@ Select Overview and observe your Outputs.
 
 Open a web browser to your *web_server_public_ip*
 
-**Step 2: Delete Your Stack **
+**Step 2: Delete Your Stack**
 
 > **Question:** When you deleted the stack, how many resources were destroyed?
 
