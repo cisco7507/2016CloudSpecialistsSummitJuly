@@ -15,7 +15,7 @@ When an TMOS VE is connected to a tenant network, a Neutron FloatingIP allocatio
 
 >**Note:** the F5::Cm::Cluster resource assumes the TMOS VE already have config sync, failover, and mirror interface setting configured. If you use the TMOS VE onboarding your HOT *user_data* should include the *device_is_sync*, *device_is_failover*, *device_is_mirror_primary* interface attributes set appropriately.
 
->**Note:** the F5::Cm::Cluster resource builds an iApp to perform the clustering. The iApp currently does not look for the presence of the ASM sync-only device service group (11.6+) and clustering will fail of you enable ASM (thanks ASM folks). It will be fixed shortly.
+>**Note:** the F5::Cm::Cluster resource builds an iApp to perform the clustering. The iApp currently does not look for the presence of the ASM sync-only device service group (11.6+) and clustering will fail if you enable ASM (thanks ASM folks). It will be fixed shortly.
 
 ```
 
