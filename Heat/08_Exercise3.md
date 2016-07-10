@@ -136,6 +136,7 @@ parameters:
       type: string
       label: F5 VE Image
       description: The image to be used on the TMOS VE instance.
+      default: None
       constraints:
         - custom_constraint: glance.image
 
@@ -148,7 +149,7 @@ parameters:
 
 ####Hints for Heat Clients:
  
-Some clients are smart, like the Horizon GUI. If a parameter has a custom constraint Horizon will attempt to build a list of acceptable values an present that to the tenant. 
+Some clients are smart, like the Horizon GUI. If a parameter has a custom constraint Horizon will attempt to build a list of acceptable values based on the constraint and present that to the tenant. 
 
 ![Horizon Constraints Hints](./images/Exercise_3_1.png)
 
