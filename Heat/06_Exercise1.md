@@ -186,6 +186,10 @@ You will notice the use of the ` get_attr ` HOT function to get the attribute fr
 { get_attr: [<resource name>, <attribute name> ]}
 ```
 
+> **Question:** How much of your infrastructure can you orchestrate in OpenStack?
+> **Question:** Do you think Heat is slowing down or growing with every release?
+
+
 
 <sub>
 [Table of Contents](01_TOC.md) - Next [Exercise 2 - Your First Heat Orchestration](07_Exercise2.md) 
