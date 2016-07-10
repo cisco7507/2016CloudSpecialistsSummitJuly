@@ -239,7 +239,7 @@ outputs:
 
 ```
 
-**Step 2: Add *'parameter_groups'* to give Horizon the hint to order and group the inputs ** 
+**Step 2: Add 'parameter_groups' to give Horizon the hint to order and group the inputs** 
 
 ```
 
