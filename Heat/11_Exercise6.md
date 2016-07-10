@@ -222,7 +222,9 @@ Select your Stack and observe the dependancies.
 Select Overview and observe your Outputs.
 
 Open a web browser to your *web_server_1_public_ip*
+
 Open a web browser to your *web_server_2_public_ip*
+
 Open a web browser to your *web_server_3_public_ip*
 
 **Step 2: Delete Your Stack **
