@@ -37,7 +37,7 @@ resources:
       username: admin
       password: openstack
       ip: 10.121.55.167
-  testlic1:
+  license1:
     type: F5::BigIQ::LicensePoolUnmanagedMember
     depends_on: [bigip1, bigiq1] 
     properties:
@@ -48,14 +48,14 @@ resources:
 outputs:
   license_id:
     description: ID of the license
-    value: { get_attr: [testlic1, license_uuid] }
+    value: { get_attr: [license1, license_uuid] }
 
 ```
 
 
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Clustering BIG-IPs](16_Exercise10.md) 
+[Table of Contents](01_TOC.md) - Next [Clustering BIG-IPs](16_Clustering_BIG-IPs.md) 
 </sub>
 
 <sup>
