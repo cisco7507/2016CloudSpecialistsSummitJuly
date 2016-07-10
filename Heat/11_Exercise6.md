@@ -3,7 +3,7 @@
 Summit Presentations
 
 
-#Exercise 5 - Composability
+#Exercise 6 - Composability
 
 If a declarative orchestration system based on templates didn't work with document management and version control systems it would be a waste of time. The fundemental premise of Dev Ops is the adoption of the same testing done in agile development of software for operational facets of an organization. Agile continuous integation testing depends on test systems have access to versions of code through integration with version control systems. Your HOT are *infrastructure as code* so they should be treated as code.
 
