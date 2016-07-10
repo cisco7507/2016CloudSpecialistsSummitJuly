@@ -193,7 +193,7 @@ Would be references as:
 ```
 
 
-**Step 1: Construct a HOT with Nested Resources ** 
+**Step 1: Construct a HOT with Nested Resources** 
 
 
 From the Horizon GUI Navigate to *Orchestation->Stacks* and Click the *+Launch* Stack button.
@@ -205,7 +205,7 @@ http://repo.mydemo.rocks/templates/exercise_6.yaml
 ![Get Your Template](./images/Exercise_6_1.png)
 
 
-**Step 2: Launch Your Stack ** 
+**Step 2: Launch Your Stack** 
 
 
 Name your stack *exercise_6*
@@ -232,7 +232,7 @@ Open a web browser to your *web_server_2_public_ip*
 Open a web browser to your *web_server_3_public_ip*
 
 
-**Step 3: Delete Your Stack **
+**Step 3: Delete Your Stack**
 
 > **Question:** In the exercise_6.yaml template, why did we have to use the `depends_on:` property for the web_server_1 resource?
 
