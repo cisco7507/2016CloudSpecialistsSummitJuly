@@ -37,7 +37,7 @@ We have already installed some custom f5 Heat resouce plugins for you:
 Like all resources you can inspect their properties and attributes. The properties and attributes tell you how to use the resources in your HOT.
 
 <sub>
-[Table of Contents](01_TOC.md) - Next [Exercise 9 - BIG-IQ License Orchestration](15_Exercise9.md) 
+[Table of Contents](01_TOC.md) - Next [BIG-IQ License Orchestration](15_BIG-IQ_License_Orchestration.md) 
 </sub>
 
 <sup>
