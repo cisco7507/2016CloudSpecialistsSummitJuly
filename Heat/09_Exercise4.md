@@ -162,7 +162,7 @@ Pick m1.small as your flavor
 Pick a network
 Set your password
 
-![Launch your Orchestration](./images/Exercise_4_1.png)
+![Launch your 
 
 Push the *'Launch'* button.
 
@@ -171,6 +171,7 @@ Push the *'Launch'* button.
 Go to your new VM guest console and login with:
 
 **username:** ubuntu
+
 **password:** [whatever you set in you stack parameter]
 
 **Step 4: UnStack - Getting rid of our Orchestation** 
