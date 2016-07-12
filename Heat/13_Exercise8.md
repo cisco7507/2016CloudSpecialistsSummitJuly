@@ -17,6 +17,9 @@ TMOS VE for years has supported customers writing a custom *startup* init script
 
 In OpenStack we 'patch' the TMOS VE images before we install them as Glance images. 
 
+####Community Start Script for Customization
+
+
 [Latest startup agent for OpenStack](http://repo.mydemo.rocks/includes/startup)
 
 [Documentation for the latest start agent in OpenStack](http://repo.mydemo.rocks/includes/BIG-IP%20VE%20onboarding%20for%20OpenStack.pdf)

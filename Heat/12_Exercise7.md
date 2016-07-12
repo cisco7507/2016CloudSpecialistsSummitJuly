@@ -12,9 +12,13 @@ In the Mitaka release neww LBaaSv2 heat resources were added:
 [https://specs.openstack.org/openstack/heat-specs/specs/mitaka/lbaasv2-support.html](https://specs.openstack.org/openstack/heat-specs/specs/mitaka/lbaasv2-support.html) 
 
 [OS::Neutron::LBaaS::LoadBalancer](http://docs.openstack.org/developer/heat/template_guide/openstack.html#OS::Neutron::LBaaS::LoadBalancer)
+
 [OS::Neutron::LBaaS::Listener](http://docs.openstack.org/developer/heat/template_guide/openstack.html#OS::Neutron::LBaaS::Listener)
+
 [OS::Neutron::LBaaS::Pool](http://docs.openstack.org/developer/heat/template_guide/openstack.html#OS::Neutron::LBaaS::Pool)
+
 [OS::LBaaS::PoolMember](http://docs.openstack.org/developer/heat/template_guide/openstack.html#OS::Neutron::LBaaS::PoolMember)
+
 [OS::LBaaS::HealthMonitor](http://docs.openstack.org/developer/heat/template_guide/openstack.html#OS::Neutron::LBaaS::HealthMonitor)
 
 Let's consider and example which builds on your last composibility exercise.
