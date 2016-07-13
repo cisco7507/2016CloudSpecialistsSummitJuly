@@ -5,7 +5,7 @@ Summit Presentations
 
 #Exercise 1 - Discovering Your Resources
 
-HOT with resources to orchestrate is useless. So let's see what your working with.
+HOT without resources to orchestrate is useless. So let's see what your working with.
 
 ####Query Heat for a List of Resources
 
