@@ -110,7 +110,7 @@ We are going to:
 
 heat_template_version: 2014-10-16
 
-description: This template deploys standard TMOS data security groups.
+description: This template deploys standard TMOS data security group.
 
 resources:
 
@@ -132,6 +132,7 @@ resources:
           port_range_min: 443
           port_range_max: 443
 
+
    bigip_control_security_group:
     type: OS::Neutron::SecurityGroup
     deletion_policy: Retain
@@ -150,7 +151,8 @@ resources:
           port_range_min: 4353
           port_range_max: 4353
 
-  bigip_data_security_group:
+
+   bigip_data_security_group:
     type: OS::Neutron::SecurityGroup
     deletion_policy: Retain
     properties:
